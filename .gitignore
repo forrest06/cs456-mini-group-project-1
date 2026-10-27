@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+last_heartbeat.json
+monitor_incidents.jsonl
+demo_*_incidents.jsonl
+*.log
+*.mov
+*.pdf
+qa-*/
+assets/
+video_build/
+submission/*.docx
